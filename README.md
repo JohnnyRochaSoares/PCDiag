@@ -58,6 +58,14 @@ PCDiag aims to bring computer diagnostics into a single platform, helping users 
 
 ---
 
+## Installation
+
+PCDiag is currently under active development and is not yet ready for production use.
+
+Installation instructions will be provided with the first public release.
+
+---
+
 ## Roadmap
 
 #### Phase 1 — Foundation
